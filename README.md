@@ -13,7 +13,7 @@
 - :school: I am a Computer Science student at the [University of the People](https://www.uopeople.edu/es/programs/online-bachelors/computer-science/)
 - :technologist: **Currently working on** `Web3 Development` **&** `Data Science`
 - :boom: You can visit [MY GITHUB](https://github.com/RCarmelaVO) 
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Raquel+Villanueva&amp;color=EA4335&amp;style=flat-square)](mailto:raquelospino33@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Raquel+Villanueva&amp;color=EA4335&amp;style=flat-square)](mailto:raquelospino86@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
